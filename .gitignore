@@ -1,0 +1,7 @@
+[Bb]in
+[Oo]bj
+Packages
+App_Data
+
+*.suo
+*.user
